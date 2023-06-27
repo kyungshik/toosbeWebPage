@@ -7,3 +7,7 @@
 [submodule "roxo-hugo"]
 	path = roxo-hugo
 	url = https://github.com/StaticMania/roxo-hugo.git
+[submodule "public/kyungshik.github.io"]
+	path = public/kyungshik.github.io
+	url = git@github.com:kyungshik/kyungshik.github.io.git
+	branch = main
