@@ -3,6 +3,7 @@ languageCode  = "en-us"
 title         = "투스비"
 theme         = "roxo-hugo"
 summarylength = 25
+disableFinderprinting = "true"
 
 # Site Menus
 [menu]

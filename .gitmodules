@@ -11,3 +11,7 @@
 	path = public/kyungshik.github.io
 	url = git@github.com:kyungshik/kyungshik.github.io.git
 	branch = main
+[submodule "kyungshik.github.io"]
+	path = kyungshik.github.io
+	url = git@github.com:kyungshik/kyungshik.github.io.git
+	branch = main

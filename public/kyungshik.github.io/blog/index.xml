@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on devKS</title>
+    <link>https://kyungshik.github.io/blog/</link>
+    <description>Recent content in Blog on devKS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://kyungshik.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience</title>
+      <link>https://kyungshik.github.io/blog/third-blog/</link>
+      <pubDate>Thu, 11 May 2023 16:28:45 +0900</pubDate>
+      
+      <guid>https://kyungshik.github.io/blog/third-blog/</guid>
+      <description>주식회사 OOOOO 서비스기획부 사원 청년 맞춤형 이사 플랫폼 2021.01 - 2021.10 IoT-Ai 연계 홈서비스 사업 기획, 비대면 이사 견적시스템 앱 화면 설계  유한회사 OOOOO 서비스기획부 사원 기업형 블록체인 서비스 해외 기획부 2018.11 - 2020.03 1 미국, Microsoft Inspire: 한국형 지역화폐 홍보 및 해외수출 2. 중국, 베이징: 해외 투자 유치를 위한 기업 설명회 3. 베트남, Asia Blockchain Consensus Summit: 기업형 블록체인 플랫폼 해외영업 청소년을 위한 4차 산업혁명 교육 4. 인도네시아, SE-Asia Blockchain Summit: 동남아시아 기반 기업형 블록체인 생태계 논의, 자사 플랫폼 해외영업 </description>
+    </item>
+    
+    <item>
+      <title>Making a new Website</title>
+      <link>https://kyungshik.github.io/blog/first-blog/</link>
+      <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://kyungshik.github.io/blog/first-blog/</guid>
+      <description>For a long time this website has had a couple of links to contact me, but those days are over.
+Now I have a brand new Hugo website with a custom written theme complete with
+ A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog  Why Hugo? The first question is why a site builder?</description>
+    </item>
+    
+  </channel>
+</rss>
