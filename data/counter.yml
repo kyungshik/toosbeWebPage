@@ -1,0 +1,14 @@
+enable : true
+heading : "투스비와 함께하는 파트너"
+counter_item: 
+  - title: "영어조합법인"
+    number: "정품수산"
+
+  - title: "제주 친환경 식품"
+    number: "마켓 오리진"
+
+  - title: "제주 흑돼지 육가공 도매"
+    number: "제주 돈마니"
+
+  - title: "현대백화점 그룹"
+    number: "씨엔에스푸드"

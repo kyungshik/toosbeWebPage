@@ -1,3 +1,112 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL       = "https://kyungshik.github.io/toosbe"
+languageCode  = "en-us"
+title         = "Roxo | Creative Design Agency"
+theme         = "roxo-hugo"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "투스비"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "회사소개"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "사업분야"
+    url     = "portfolio"
+    weight  = 3
+  [[menu.nav]]
+    name    = "회사소식"
+    url     = "blog"
+    weight  = 4
+  [[menu.nav]]
+    name    = "고객센터"
+    url     = "contact"
+    weight  = 5
+
+# Site Params
+[params]
+  logo = "images/logo.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
+  author = "StaticMania"
+  # Google Analitycs
+  googleAnalitycsID = "kyungshikseong@gmail.com"
+  # We're using formspree.io for form handling, paste your formspree url below
+  fabform  = "https://fabform.io/f/USAg2Jl"
+
+  # Contact Form
+  [params.contactForm]
+    placeholder_first_name        = "이름"
+    placeholder_last_name         = "성"
+    placeholder_email             = "이메일"
+    placeholder_project_type      = "항목"
+    placeholder_about_the_project = "문의사항"
+    send_message                  = "보내기"
+
+    [[params.contactForm.projectType]]
+      value = "gd"
+      title  = "사업 제휴"
+    [[params.contactForm.projectType]]
+      value = "wd"
+      title  = "기타"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/pexels-lauri-poldre-14617689.jpg"
+    heading               = "건강하고 지속가능한 식사습관"
+    tagline               = "Toosbe Food Center"
+    primary_button        = "회사 소개"
+    primary_button_url    = "about"
+    secondary_button      = "제품 소개"
+    secondary_button_url  = "portfolio"
+
+  [params.portfolio]
+    enable    = true
+    title     = "사업분야"
+    subtitle1  = "자연 그대로의 신선함과 검증된 시설에서 먹거리를 만듭니다."
+    subtitle2  = "산지에서 식탁까지 모두 책임지는 투스비가 되겠습니다."
+
+
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "황선홍 "
+      address = "경기 광주시 목동길 13번길<br>5-40 에이동1층"
+      company_no = "사업자등록번호: 580-81-03142"
+      phone   = "055-941-0409"
+      email   = "toosbe@naver.com"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "투스비"
+        [[params.footer.sitemap.link]]
+          name = "회사소개"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "사업소개"
+          url  = "portfolio"
+        [[params.footer.sitemap.link]]
+          name = "회사소식"
+          url  = "blog"
+        [[params.footer.sitemap.link]]
+          name = "고객센터"
+          url  = "contact"
+      
+      # Footer Service
+      [params.footer.service]
+        title       = "투스비가 만들면 맛있습니다:"
+        description = "고품질의 식자재를 생산합니다.<br>고객의 건강한 삶에 기여합니다.<br> 저탄소 메뉴, 제로웨이스트 프로그램<br> 운영 등 지속가능한 가치 실현에 동참합니다."
