@@ -1,8 +1,8 @@
 ---
 title: "About Us"
 date: 2018-07-12T18:19:33+06:00
-heading : "투스비가 만들면 다릅니다"
-description : "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
-expertise_title: "Expertise"
-expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
+heading : "TO BE HAPPY"
+description : "지역사회의 특산물과 검증된 시설에서 맛있는 먹거리를 만듭니다. 산지에서 식탁까지 원스톱 서비스를 제공합니다. 종합식품기업으로서 신선식품, 유통, 상품 기획 등 식품과 관련된 다양한 사업을 운영하고 있습니다. 건강하고 지속가능한 식품을 제공하여 사람들의 행복을 더하고 싶습니다."
+expertise_title: "사업분야"
+expertise_sectors: ["1) 온라인 유통 :", "NS홈쇼핑, 홈앤쇼핑, 공영홈쇼핑, 현대홈쇼핑.", "2) 오프라인 유통 :", "이마트, 홈플러스, 롯데마트, 생협, 한살림, 두레마을", "3) 농수산 가공 시설 구축 : 신선 및 가공 식품", "[협력 업체 협업]", "4) 지역 특산물 원스톱 서비스 :", "제주 특별자치도"]
 ---

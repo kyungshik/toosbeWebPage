@@ -3,7 +3,7 @@ title: "핫도그류"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
 image: "images/projects/hotdog1.png"
-category: ["PRODUCT LABEL"]
+category: ["냉동식품"]
 project_images: ["images/projects/hotdog_screen.png"]
 ---
 겉은 바삭! 속은 쫄깃! 육즙 팡팡!

@@ -1,6 +1,6 @@
 baseURL       = "https://kyungshik.github.io/toosbe"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "투스비"
 theme         = "roxo-hugo"
 summarylength = 25
 
@@ -16,7 +16,7 @@ summarylength = 25
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "사업분야"
+    name    = "제품소개"
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]

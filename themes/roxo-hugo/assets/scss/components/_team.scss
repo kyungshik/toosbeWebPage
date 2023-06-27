@@ -8,18 +8,18 @@
     @include tablet{
       text-align: center;
     }
-    &-image{
-      position: absolute;
-      width: 100px; height: 100px;
-      border-radius: 50%;
-      overflow: hidden;
-      left: 30px; top: 0;
-      transform: translateY(-50%);
-      @include tablet{
-        left: 50%;
-        transform: translate(-50%, -50%);
-      }
-    }
+    // &-image{
+    //   position: absolute;
+    //   width: 100px; height: 100px;
+    //   border-radius: 50%;
+    //   overflow: hidden;
+    //   left: 30px; top: 0;
+    //   transform: translateY(-50%);
+    //   @include tablet{
+    //     left: 50%;
+    //     transform: translate(-50%, -50%);
+    //   }
+    // }
     &-content{
       h3{
         font-size: 20px;
@@ -34,18 +34,18 @@
         font-weight: 300;
       }
     }
-    &-social{
-      margin: 0;
-      padding: 0;
-      li{
-        display: inline-block;
-        a{
-          color: $text-color-dark;
-        }
-        &:not(:last-child){
-          margin-right: 10px;
-        }
-      }
-    }
+    // &-social{
+    //   margin: 0;
+    //   padding: 0;
+    //   li{
+    //     display: inline-block;
+    //     a{
+    //       color: $text-color-dark;
+    //     }
+    //     &:not(:last-child){
+    //       margin-right: 10px;
+    //     }
+    //   }
+    // }
   }
 }

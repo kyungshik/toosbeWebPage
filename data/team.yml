@@ -1,24 +1,13 @@
-enable  : true
+enable  : false
 title   : 주요 임직원
 members  :
-  - image       : images/team/team-member-one.jpg
-    name        : 황재홍
+  - name        : 황재홍
     designation : 대표이사
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-two.jpg
-    name        : 김병구
+  - name        : 김병구
     designation : 이사
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-three.jpg
-    name        : 성연천
+  - name        : 성연천
     designation : 이사
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+
 
