@@ -1,4 +1,4 @@
-baseURL       = "https://kyungshik.github.io/toosbe"
+baseURL       = "http://www.toosbe.com/"
 languageCode  = "en-us"
 title         = "투스비"
 theme         = "roxo-hugo"
