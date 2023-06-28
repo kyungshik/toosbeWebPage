@@ -86,7 +86,7 @@ disableFinderprinting = "true"
   [params.footer]
     # Footer Contact Info
     [params.footer.contactInfo]
-      title   = "황선홍 "
+      title   = "황재홍"
       address = "경기 광주시 목동길 13번길<br>5-40 에이동1층"
       company_no = "사업자등록번호: 580-81-03142"
       phone   = "055-941-0409"
